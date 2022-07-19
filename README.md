@@ -1,3 +1,6 @@
 # Windows-11
 
-Its A copy
+[Try here](https://nabeelshar.github.io/Windows-11/)
+
+
+[Orginal Repo](https://github.com/blueedgetechno/win11React)
